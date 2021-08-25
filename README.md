@@ -1,1 +1,0 @@
-Vue js Blog application
